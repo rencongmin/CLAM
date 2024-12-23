@@ -52,6 +52,7 @@ CLAM is a two-stage deep learning framework designed to reconstruct high-resolut
 2. Load the CLAM plugin by navigating to the `Plugins` menu and selecting `CLAM`.
 
 ### Step-by-Step Guide
+![plugin.png](figs/plugin.png)
 
 ### Step 1: Load an Image
 
