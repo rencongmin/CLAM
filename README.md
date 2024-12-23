@@ -10,13 +10,13 @@ CLAM is a two-stage deep learning framework designed to reconstruct high-resolut
 
 - Supports various microscopy modalities and subcellular structures.
 
-![fig5.tif](https://prod-files-secure.s3.us-west-2.amazonaws.com/349f2e03-5eed-45b5-85a1-60407647e51f/5b53de70-f71c-4b81-988e-b17f77e28101/fig5.tif)
+![fig5.png](figs/fig5.png)
 
 - CLAM enables researchers to observe interactions between organelles with high resolution and high signal-to-noise ratio.
 
-![ER+Mito.tif](https://prod-files-secure.s3.us-west-2.amazonaws.com/349f2e03-5eed-45b5-85a1-60407647e51f/a8bdb97b-e113-4719-bb75-bfd6fb635e43/ERMito.tif)
+![ER+Mito.png](figs/ER+Mito.png)
 
-![MT+Lyso.tif](https://prod-files-secure.s3.us-west-2.amazonaws.com/349f2e03-5eed-45b5-85a1-60407647e51f/53bb95fb-a4fe-4869-a988-429f61dda18a/MTLyso.tif)
+![MT+Lyso.png](figs/MT+Lyso.png)
 
 ## Installation
 
