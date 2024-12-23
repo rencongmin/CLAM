@@ -6,7 +6,7 @@ CLAM is a two-stage deep learning framework designed to reconstruct high-resolut
 
 - High-fidelity SR reconstruction under low SNR conditions.
 
-![Fig1 [已恢复].tif](figsfigs/Fig1.tif)
+![Fig1.png](figs/Fig1.png)
 
 - Supports various microscopy modalities and subcellular structures.
 
