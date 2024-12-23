@@ -2,21 +2,6 @@
 
 CLAM is a two-stage deep learning framework designed to reconstruct high-resolution super-resolution (SR) images from low signal-to-noise ratio (SNR), diffraction-limited wide-field (WF) microscopy images. CLAM integrates the high-fidelity restoration capabilities of supervised deep learning (SDL) models with the ultra-fine structure generation strengths of generative deep learning (GDL) models, which provides robust and high-fidelity SR reconstructions, enabling researchers to visualize intricate subcellular structures and dynamic interactions.
 
-## **Characrization of CLAM**
-
-- High-fidelity SR reconstruction under low SNR conditions.
-
-![Fig1.png](figs/Fig1.png)
-
-- Supports various microscopy modalities and subcellular structures.
-
-![fig5.png](figs/fig5.png)
-
-- CLAM enables researchers to observe interactions between organelles with high resolution and high signal-to-noise ratio.
-
-![ER+Mito.png](figs/ER+Mito.png)
-
-![MT+Lyso.png](figs/MT+Lyso.png)
 
 ## Installation
 
@@ -89,3 +74,20 @@ CLAM is a two-stage deep learning framework designed to reconstruct high-resolut
 ## Example Data
 
 To test the functionality of CLAM, example datasets are available in the `example_data/` directory of the GitHub repository.
+
+## **Characrization of CLAM**
+
+- High-fidelity SR reconstruction under low SNR conditions.
+
+![Fig1.png](figs/Fig1.png)
+
+- Supports various microscopy modalities and subcellular structures.
+
+![fig5.png](figs/fig5.png)
+
+- CLAM enables researchers to observe interactions between organelles with high resolution and high signal-to-noise ratio.
+
+![ER+Mito.png](figs/ER+Mito.png)
+
+![MT+Lyso.png](figs/MT+Lyso.png)
+
