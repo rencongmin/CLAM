@@ -1,6 +1,6 @@
 # CLASI: Combined Learning for Augmented Super-Resolution Imaging
 
-CLAM is a two-stage deep learning framework designed to reconstruct high-resolution super-resolution (SR) images from low signal-to-noise ratio (SNR), diffraction-limited wide-field (WF) microscopy images. CLAM integrates the high-fidelity restoration capabilities of supervised deep learning (SDL) models with the ultra-fine structure generation strengths of generative deep learning (GDL) models, which provides robust and high-fidelity SR reconstructions, enabling researchers to visualize intricate subcellular structures and dynamic interactions.
+CLASI is a two-stage deep learning framework designed to reconstruct high-resolution super-resolution (SR) images from low signal-to-noise ratio (SNR), diffraction-limited wide-field (WF) microscopy images. CLASI integrates the high-fidelity restoration capabilities of supervised deep learning (SDL) models with the ultra-fine structure generation strengths of generative deep learning (GDL) models, which provides robust and high-fidelity SR reconstructions, enabling researchers to visualize intricate subcellular structures and dynamic interactions.
 
 
 ## Installation
@@ -12,18 +12,18 @@ CLAM is a two-stage deep learning framework designed to reconstruct high-resolut
 
 ### Installation Steps
 
-1. Clone the CLAM repository from GitHub.
+1. Clone the CLASI repository from GitHub.
     
     ```bash
-    git clone <https://github.com/your-repo/CLAM.git>
-    cd CLAM
+    git clone <https://github.com/your-repo/CLASI.git>
+    cd CLASI
     ```
     
 2. Create a virtual environment and install PyTorch and other dependencies.
     
     ```bash
-    conda create -n CLAM python=3.10.13
-    conda activate CLAM
+    conda create -n CLASI python=3.10.13
+    conda activate CLASI
     ```
     
 3. Install the required dependencies.
@@ -32,10 +32,10 @@ CLAM is a two-stage deep learning framework designed to reconstruct high-resolut
     pip install -r requirements.txt
     ```
     
-4. Install the CLAM napari plugin.
+4. Install the CLASI napari plugin.
     
     ```bash
-    pip install CLAM.whl
+    pip install CLASI.whl
     ```
     
 
@@ -49,7 +49,7 @@ CLAM is a two-stage deep learning framework designed to reconstruct high-resolut
     napari
     ```
     
-2. Load the CLAM plugin by navigating to the `Plugins` menu and selecting `CLAM`.
+2. Load the CLASI plugin by navigating to the `Plugins` menu and selecting `CLASI`.
 
 ### Step-by-Step Guide
 ![plugin.png](figs/plugin.png)
@@ -74,9 +74,9 @@ CLAM is a two-stage deep learning framework designed to reconstruct high-resolut
 
 ## Example Data
 
-To test the functionality of CLAM, example datasets are available in the `example_data/` directory of the GitHub repository.
+To test the functionality of CLASI, example datasets are available in the `example_data/` directory of the GitHub repository.
 
-## **Characrization of CLAM**
+## **Characrization of CLASI**
 
 - High-fidelity SR reconstruction under low SNR conditions.
 
@@ -86,7 +86,7 @@ To test the functionality of CLAM, example datasets are available in the `exampl
 
 ![fig5.png](figs/fig5.png)
 
-- CLAM enables researchers to observe interactions between organelles with high resolution and high signal-to-noise ratio.
+- CLASI enables researchers to observe interactions between organelles with high resolution and high signal-to-noise ratio.
 
 ![ER+Mito.png](figs/ER+Mito.png)
 
