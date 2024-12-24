@@ -32,7 +32,7 @@ CLASI is a two-stage deep learning framework designed to reconstruct high-resolu
     pip install -r requirements.txt
     ```
     
-4. Install the CLASI napari plugin.
+4. Download and install the CLASI napari plugin.
     
     ```bash
     pip install CLASI.whl
